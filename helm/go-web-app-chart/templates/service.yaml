@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: go-web-app
+  name: pranay-webappsvc
   labels:
     app: go-web-app
 spec:
